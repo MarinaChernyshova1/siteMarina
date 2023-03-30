@@ -1,6 +1,6 @@
 # САЙТ с моим фото
 
-![Marina](https://drive.google.com/file/d/1eUGTwMoRxpWNt2kh6kHjjC0R0qbdbksI/view?usp=drivesdk "Моё фото")
+![Marina](https://disk.yandex.ru/i/S8pEb85DOUOstg "Моё фото")
 
 ## При создании сайта важноучесть следующие факторы
 
