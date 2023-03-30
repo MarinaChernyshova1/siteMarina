@@ -1,6 +1,6 @@
 # САЙТ с моим фото
 
-![Marina](https://disk.yandex.ru/i/S8pEb85DOUOstg "Моё фото")
+![Marina](image/fotoMarina.png "Моё фото")
 
 ## При создании сайта важноучесть следующие факторы
 
