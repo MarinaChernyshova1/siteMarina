@@ -1,6 +1,6 @@
 # САЙТ с моим фото
 
-![Marina](https://image/fotoMarina.png "Моё фото")
+![Marina](image/fotoMarina.png)
 
 ## При создании сайта важноучесть следующие факторы
 
